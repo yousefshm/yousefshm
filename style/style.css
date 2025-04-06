@@ -231,10 +231,10 @@ span{
         content: "CS Student";
     }
     33.34%, 66.66% {
-        content: "Web Developer";
+        content: "Data Engineer";
     }
     66.67%, 100% {
-        content: "MERN Developer";
+        content: "Web Developer";
     }
 }
 @keyframes typing{
