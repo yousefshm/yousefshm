@@ -13,7 +13,8 @@
     --bg-color: #080808;
     --second-bg-color: #131313;
     --text-color: white;
-    --main-color: #00ffee;
+    --main-color: #00c4ff;
+    /*#00ffee - #05cefa - #00dcfe - #00fcff* #00c4ff */
     --blog-color: #79c2d0;
 }
 
@@ -228,7 +229,7 @@ span{
 }
 @keyframes words {
     0%, 33.33% {
-        content: "CS Student";
+        content: "Data Analyst";
     }
     33.34%, 66.66% {
         content: "Data Engineer";
